@@ -43,3 +43,10 @@ public:
         
     }
 };
+
+
+//Approach 2 : Instead of the extra space utilize the first cell of row and col to keep track of zeros
+// since [0][0] act as ref for both col & row, to avoid confusion
+// separate isCol variale can be used to track col 0
+// Time complexity : O(m X n)
+// Space complexity : O(1)
