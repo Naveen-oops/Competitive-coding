@@ -8,4 +8,5 @@ Arrays:
 3. Binary-exponentiation (very Imp)
 4. DP memoization array (Very Imp)
 5. Combinatorics - nCr calculation programatically
-6. Boyer-Moore voting algorithm
+6. next-permutation-O(n)
+7. Boyer-Moore voting algorithm
