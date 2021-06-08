@@ -10,3 +10,4 @@ Arrays:
 5. Combinatorics - nCr calculation programatically
 6. next-permutation-O(n)
 7. Boyer-Moore voting algorithm
+8. Modifying merge sort algorithm - (Lengthy code)
