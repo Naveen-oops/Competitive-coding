@@ -1,8 +1,8 @@
-// Time complexity:  O(m1 * n1)
-// Space complexity: O(1)
+#  Time complexity:  O(m1 * n1)
+#  Space complexity: O(1)
 
-#include<bits/stdc++.h>
-
+```c++
+#include <bits/stdc++.h>
 using namespace std;
 
 //Function to merge the arrays.
@@ -73,3 +73,5 @@ int main(){
 
 	return 0;
 }
+
+```
