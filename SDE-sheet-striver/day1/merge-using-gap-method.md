@@ -1,6 +1,8 @@
-// Time compleity:  O(m+n)
-// Space complexity : O(1)
+# Time compleity:  O(m+n)
+# Space complexity : O(1)
 
+```c++
+	
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -74,3 +76,5 @@ int main(){
 
 	return 0;
 }
+
+```
