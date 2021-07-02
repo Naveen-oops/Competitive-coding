@@ -57,3 +57,8 @@ int main() {
 
 }
 ```
+
+# Output
+
+![output](https://github.com/Naveen-oops/Competitive-coding/blob/main/C-programs/Output-screenshots/output1.jpeg)
+
