@@ -11,6 +11,6 @@
 # My solutions:
 
 3. Two approaches
-      * [Approach-1(simple- Using INSERTION SORT)](https://github.com/Naveen-oops/Competitive-coding/blob/main/SDE-sheet-striver/day1/mergesort-O-of-1-space.cpp)
-      * [Approach-2(Using Gap sort)](https://github.com/Naveen-oops/Competitive-coding/blob/main/SDE-sheet-striver/day1/merge-using-gap-method.cpp)
+      * [Approach-1(simple- Using INSERTION SORT)](https://github.com/Naveen-oops/Competitive-coding/blob/main/SDE-sheet-striver/day1/mergesort-O-of-1-space.md)
+      * [Approach-2(Using Gap sort)](https://github.com/Naveen-oops/Competitive-coding/blob/main/SDE-sheet-striver/day1/merge-using-gap-method.md)
 4. ----- 
